@@ -6,5 +6,6 @@
 
 void printBar(char *description, int percentage);
 void flushBar(char *description);
+void incrementBar(char *description, int max);
 
 #endif
